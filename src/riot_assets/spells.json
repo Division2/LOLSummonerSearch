@@ -1,0 +1,91 @@
+{
+    "type": "summoner",
+    "version": "11.2.1",
+    "data":
+    [
+       	{
+            "id": "SummonerBarrier",
+            "name": "방어막",
+            "key": 21,
+            "image": "SummonerBarrier.png"
+        },
+        {
+            "id": "SummonerBoost",
+            "name": "정화",
+            "key": 1,
+            "image": "SummonerBoost.png"
+        },
+        {
+            "id": "SummonerDot",
+            "name": "점화",
+            "key": 14,
+            "image": "SummonerDot.png"
+        },
+        {
+            "id": "SummonerExhaust",
+            "name": "탈진",
+            "key": 3,
+            "image": "SummonerExhaust.png"
+        },
+        {
+            "id": "SummonerFlash",
+            "name": "점멸",
+            "key": 4,
+            "image": "SummonerFlash.png"
+        },
+        {
+            "id": "SummonerHaste",
+            "name": "유체화",
+            "key": 6,
+            "image": "SummonerHaste.png"
+        },
+        {
+            "id": "SummonerHeal",
+            "name": "회복",
+            "key": 7,
+            "image": "SummonerHeal.png"
+        },
+        {
+            "id": "SummonerMana",
+            "name": "총명",
+            "key": 13,
+            "image": "SummonerMana.png"
+        },
+        {
+            "id": "SummonerPoroRecall",
+            "name": "왕을 향해!",
+            "key": 30,
+            "image": "SummonerPoroRecall.png"
+        },
+        {
+            "id": "SummonerPoroThrow",
+            "name": "포로 던지기",
+            "key": 31,
+            "image": "SummonerPoroThrow.png"
+        },
+        {
+            "id": "SummonerSmite",
+            "name": "강타",
+            "key": 11,
+            "image": "SummonerSmite.png"
+        },
+        {
+            "id": "SummonerSnowURFSnowball_Mark",
+            "name": "표식",
+            "key": 39,
+            "image": "SummonerSnowURFSnowball_Mark.png"
+        },
+        {
+            "id": "SummonerSnowball",
+            "name": "표식",
+            "key": 32,
+            "image": "SummonerSnowball.png"
+        },
+        {
+            "id": "SummonerTeleport",
+            "name": "순간이동",
+            "key": 12,
+            "image": "SummonerTeleport.png"
+        }
+	]
+}
