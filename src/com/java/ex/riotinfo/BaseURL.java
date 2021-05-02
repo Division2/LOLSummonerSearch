@@ -2,7 +2,7 @@ package com.java.ex.riotinfo;
 
 public class BaseURL {
 	//RIOT API KEY
-	public static final String API_KEY = "";
+	public static final String API_KEY = "RGAPI-7ff6b135-8b89-4f33-b42c-9ddf5f86b079";
 	//소환사 검색 URI
 	public static final String SEARCH_SUMMONER = "https://kr.api.riotgames.com/lol/summoner/v4/summoners/by-name/";
 	//소환사 SOLO, TEAM 5:5 리그 검색 URI
